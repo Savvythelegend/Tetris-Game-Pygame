@@ -1,4 +1,4 @@
-# Python Tetris Game (Pygame)
+# Tetris Game (Pygame)
 
 ## Overview
 This is a classic Tetris game built using Python and Pygame. The project helps reinforce Object-Oriented Programming (OOP) concepts and practice GUI game development by breaking down the game into multiple modular components.
@@ -21,7 +21,7 @@ This is a classic Tetris game built using Python and Pygame. The project helps r
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Python-Tetris-Game-Pygame
+   cd Tetris-Game-Pygame
    ```
 3. Install dependencies:
    ```bash
