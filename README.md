@@ -56,9 +56,11 @@ This is a classic Tetris game built using Python and Pygame. The project helps r
         └── music.ogg
 ```
 
+![Preview](./preview.png)
+
 ## Contributing
 Feel free to fork this repository and submit pull requests to improve the game!
 
-![Preview](./preview.png)
+
 
 
