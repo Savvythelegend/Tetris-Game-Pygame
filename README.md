@@ -59,6 +59,6 @@ This is a classic Tetris game built using Python and Pygame. The project helps r
 ## Contributing
 Feel free to fork this repository and submit pull requests to improve the game!
 
-## License
-This project is licensed under the MIT License.
+![Preview](./preview.png)
+
 
