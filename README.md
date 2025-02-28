@@ -17,7 +17,7 @@ This is a classic Tetris game built using Python and Pygame. The project helps r
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Savvythelegend/Python-Tetris-Game-Pygame.git
+   git clone https://github.com/Savvythelegend/Tetris-Game-Pygame.git
    ```
 2. Navigate to the project directory:
    ```bash
